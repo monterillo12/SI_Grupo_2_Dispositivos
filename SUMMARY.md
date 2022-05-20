@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dispositivos de Comunicación](README.md)
+* [🖥 Dispositivos de Comunicación](README.md)
 
 ## 1. Funcionamiento
 
