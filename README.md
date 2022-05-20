@@ -6,7 +6,7 @@ coverY: 0
 
 # 🖥 Dispositivos de Comunicación
 
-![](https://www.cloudmasters.es/wp-content/uploads/2020/08/redes.jpg)
+![](https://www.lifeder.com/wp-content/uploads/2017/12/Dispositivos-de-comunicaci%C3%B3n.jpg)
 
 ### Equipo 2
 
